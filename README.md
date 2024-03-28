@@ -6,14 +6,14 @@ A password generator is a tool that creates random passwords for you. These util
 
 1. **Clone the Repository:**
 
-   ```bash
+    ```bash
    https://github.com/Abhijeetkhade36/RandomPasswordGenerator-Java.git
-  ...
+    ```  
 
 2. **Compile the Java Code:**
 
    ```bash
-   javac Randompassgen.java
+   javac Task2.java
    ```
 
 3. **Run the Calculator:**
@@ -42,5 +42,5 @@ A password generator is a tool that creates random passwords for you. These util
 
 # License
 
-This project is licensed under the MIT Licens- see the [License]() file for details.
+This project is licensed under the MIT Licens- see the [License](https://github.com/Abhijeetkhade36/RandomPasswordGenerator-Java/blob/main/LICENSE) file for details.
     

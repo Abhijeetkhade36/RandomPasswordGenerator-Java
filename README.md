@@ -16,7 +16,7 @@ A password generator is a tool that creates random passwords for you. These util
    javac Task2.java
    ```
 
-3. **Run the Calculator:**
+3. **Run the RandomPasswordGenerator:**
 
    ```bash
    java Randompassgen

@@ -37,7 +37,7 @@ A password generator is a tool that creates random passwords for you. These util
 
 # Contribution
 
- If you'd like to contribute to this project or add more features to the calculator, feel free to open an issue, create a pull request, or offer suggestions. We welcome contributions
+ If you'd like to contribute to this project or add more features to the RandomPasswordGenerator, feel free to open an issue, create a pull request, or offer suggestions. We welcome contributions
 
 
 # License
